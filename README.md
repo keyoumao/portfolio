@@ -1,2 +1,1 @@
-# portfolio
-My portfolio for Vanderbilt Data Analytics Bootcamp
+# My Portfolio
